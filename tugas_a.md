@@ -1,6 +1,7 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: THORIQ TEGUH TANTYO
+
+NAMA: MUHAMMAD AHNAF AMRULLAH
 
 NRP: 06111840000051
 
