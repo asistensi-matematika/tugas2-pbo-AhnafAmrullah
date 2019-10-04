@@ -1,7 +1,7 @@
 # Tugas 2 ASISTENSI PBO - Jumat, 27 September 2019
-NAMA: `isi nama disini`
+NAMA: MUHAMMAD AHNAF AMRULLAH
 
-NRP: `isi nrp disini`
+NRP: 06111840000051
 
 
 ## DESKRIPSI SOAL
